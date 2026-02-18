@@ -1,6 +1,6 @@
 ---
 title: "Services"
-order: 4
+order: 2
 in_menu: true
 ---
 - Restauration d'édifices anciens
